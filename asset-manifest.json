@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/StandWeb-React/static/js/main.fd42d29f.chunk.js",
+    "main.js.map": "/StandWeb-React/static/js/main.fd42d29f.chunk.js.map",
+    "runtime-main.js": "/StandWeb-React/static/js/runtime-main.8c20f939.js",
+    "runtime-main.js.map": "/StandWeb-React/static/js/runtime-main.8c20f939.js.map",
+    "static/css/2.4be38407.chunk.css": "/StandWeb-React/static/css/2.4be38407.chunk.css",
+    "static/js/2.63f39d13.chunk.js": "/StandWeb-React/static/js/2.63f39d13.chunk.js",
+    "static/js/2.63f39d13.chunk.js.map": "/StandWeb-React/static/js/2.63f39d13.chunk.js.map",
+    "index.html": "/StandWeb-React/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/StandWeb-React/static/css/2.4be38407.chunk.css.map",
+    "static/js/2.63f39d13.chunk.js.LICENSE.txt": "/StandWeb-React/static/js/2.63f39d13.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c20f939.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.63f39d13.chunk.js",
+    "static/js/main.fd42d29f.chunk.js"
+  ]
+}
